@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "bed04c39-7ba1-4872-8515-fef1389c7331"
+      }
+    },
+    "android": {
+      "package": "com.netrutva.server"
+    }
+  }
+}
